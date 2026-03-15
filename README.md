@@ -6,6 +6,22 @@ The programs in this repository document my progression while learning Python th
 
 ⚠️ Programs will be uploaded gradually after review and organization to ensure the repository remains structured and readable.
 
+## Python Programs Archive
+
+Total Programs: 200
+
+Progress
+
+[ ] Level 1
+
+[ ] Level 2
+
+[ ] Level 3
+
+
+Uploaded: 0 / 200 
+(0%)
+
 ---
 
 ## Contents
@@ -27,25 +43,25 @@ This repository will include:
 Programs are organized based on learning progression.
 
 ### Level 1 — Python Fundamentals
-- Python syntax
-- Conditional branching
+- Python Syntax
+- Conditional Branching
 - Loops
-- Built-in functions
-- Drawing with turtle graphics
+- Built-in Functions
+- Drawing with Turtle Graphics
 - Functions
-- Small exercises and mini-projects
+- Small Exercises and Mini-projects
 
 ### Level 2 — Intermediate Concepts
-- Lists and dictionaries
-- Data structures
+- Lists and Dictionaries
+- Data Structures
 - Tkinter GUI programs
-- Advanced functions
-- Searching and sorting algorithms
+- Advanced Functions
+- Searching and Sorting algorithms
 
 ### Level 3 — Projects and Experiments
-- Pygame projects
+- Pygame Projects
 - Introductory AI / ML experiments
-- Small experimental programs
+- Small Experimental Programs
 
 ### Level 4 — School Practical Programs
 - Class XI Python practical assignments
