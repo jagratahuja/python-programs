@@ -19,8 +19,8 @@ Progress
 [ ] Level 3
 
 
-Uploaded: 1 / 200 
-(0.5%)
+Uploaded: 2 / 200 
+(1%)
 
 ---
 
