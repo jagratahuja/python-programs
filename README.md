@@ -12,7 +12,7 @@ Total Programs: 200
 
 Progress
 
-[20/?] Level 1
+[21/?] Level 1
 
 [0/?] Level 2
 
@@ -20,8 +20,8 @@ Progress
 
 [0/?] Level 4
 
-Uploaded: 20 / 200 
-(10%)
+Uploaded: 21 / 200 
+(10.5%)
 
 ---
 
